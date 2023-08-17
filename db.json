@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T Shirt",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/k/s/a/l-all-rbcpon-sky-one-nb-nicky-boy-original-imagkrpgkazwg8kx.jpeg?q=70",
+      "brand": "Puma",
+      "price": 400,
+      "color": "blue",
+      "gender": "men",
+      "category": "topwear"
+    },
+    {
+      "name": "T-shirt",
+      "brand": "smartees",
+      "price": 179,
+      "gender": "male",
+      "category": "topwear",
+      "color": "black",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/t/e/0/l-st-theboys-black-smartees-original-imagnqszzzzyuzru.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "name": "Jeans",
+      "brand": "Levi's",
+      "price": 1919,
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "green",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l3rmzrk0/jean/l/r/7/32-18298-1266-levi-s-original-imaget8jdugym5tm.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "name": "Men White Jeans",
+      "brand": "Comfit",
+      "price": 399,
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "white",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/jean/j/a/e/36-36c0mfit-plian-jeans-comfit-original-imag2dsfmckh8xfr-bb.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "name": "Men Regular Shirt",
+      "brand": "Combraided",
+      "price": 289,
+      "gender": "male",
+      "category": "topwear",
+      "color": "white",
+      "image": "https://rukminim1.flixcart.com/image/612/612/l4oi4cw0/shirt/a/3/9/xl-4000-combraided-original-imagfgzguwfuryw9.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "name": "Men Shirt",
+      "brand": "Zack o ford",
+      "price": 299,
+      "gender": "male",
+      "category": "topwear",
+      "color": "red",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-shirt/g/7/s/xl-lz-080-liza-martin-original-imaggyp2gyazrqz8.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "name": "Baby Girls Short",
+      "brand": "Comfit",
+      "price": 266,
+      "gender": "kids",
+      "category": "topwear",
+      "color": "red",
+      "image": "https://rukminim1.flixcart.com/image/612/612/ktop5e80/kids-dress/t/8/t/18-24-months-muskan-collctn-29-muskan-collection-original-imag6zfe5d8gx7rg.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "name": "Boys Casual",
+      "brand": "PinkYou",
+      "price": 275,
+      "gender": "kids",
+      "category": "topwear",
+      "color": "black",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/kids-apparel-combo/w/t/a/6-7-years-pycttp1-py-pinkyou-original-imagp3ffz4s7egja.jpeg?q=70",
+      "id": 8
+    },
+    {
+      "name": "Girl Party Shirt",
+      "brand": "Manitri",
+      "price": 484,
+      "gender": "kids",
+      "category": "topwear",
+      "color": "red",
+      "image": "https://rukminim1.flixcart.com/image/612/612/kqb8pzk0/kids-ethnic-set/g/y/d/11-12-years-maroon-skirt-manaitri-original-imag4ct3fwrp5hcz.jpeg?q=70",
+      "id": 9
+    },
+    {
+      "name": "Baby Girl Casual Top Skirt",
+      "brand": "Deviluna",
+      "price": 525,
+      "gender": "kids",
+      "category": "topwear",
+      "color": "black",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/kids-apparel-combo/t/i/x/5-6-years-baby-girls-casual-top-shorts-black-del-luna-original-imagnfdhznf6zg8x.jpeg?q=70",
+      "id": 10
+    },
+    {
+      "name": "Track Pant for Boys",
+      "brand": "Provogue",
+      "price": 376,
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "green",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/kids-track-pant/6/7/q/13-14-years-pro-kt11-grn-provogue-original-imagzugf5vhzpf8y.jpeg?q=70",
+      "id": 11
+    },
+    {
+      "name": "Track Pant for boys",
+      "brand": "Tripr",
+      "price": 482,
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "black",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-track-pant/z/q/k/7-8-years-tblgy-wmboyjogger-crosline-tripr-original-imafym78az6vm8um-bb.jpeg?q=70",
+      "id": 12
+    },
+    {
+      "name": "Track Pant For Boys",
+      "brand": "SmartRAHO",
+      "price": 296,
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "white",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-track-pant/7/f/i/13-14-years-btp10-smartraho-original-imagzjepmdcefvxy.jpeg?q=70",
+      "id": 13
+    },
+    {
+      "name": "Baby T-shirt",
+      "brand": "CuteHug",
+      "price": 279,
+      "gender": "kids",
+      "category": "topwear",
+      "color": "black",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-apparel-combo/b/t/w/1-2-years-me-cutehug-original-imagh5b8vpsz3xyp.jpeg?q=70",
+      "id": 14
+    },
+    {
+      "name": "Kids Casual Sweetshirt",
+      "brand": "Patche",
+      "price": 499,
+      "gender": "kids",
+      "category": "topwear",
+      "color": "green",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-apparel-combo/p/b/i/8-9-years-1005-neon-patche-original-imagkfncazwm3azh.jpeg?q=70",
+      "id": 15
+    },
+    {
+      "name": "Baby Casual T-shirts",
+      "brand": "Mars infinity",
+      "price": 215,
+      "gender": "kids",
+      "category": "topwear",
+      "color": "white",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l432ikw0/kids-apparel-combo/5/o/k/6-12-months-t-db13-blue-ind-wo-mars-infiniti-original-imagf2jkttb65xar.jpeg?q=70",
+      "id": 16
+    },
+    {
+      "name": "Girls casual Top Shorts",
+      "brand": "Billion",
+      "price": 521,
+      "gender": "kids",
+      "category": "topwear",
+      "color": "white",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l4rd0280/kids-apparel-combo/i/t/c/9-10-years-blgcmb00047-wht-billion-original-imagfh4pnt9rz3ge.jpeg?q=70",
+      "id": 17
+    },
+    {
+      "name": "Girls Top Skirt",
+      "brand": "Fashion Dream",
+      "price": 695,
+      "gender": "kids",
+      "category": "topwear",
+      "color": "green",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l2nmnww0/kids-apparel-combo/y/u/g/13-14-years-fdgcmb00023-tbl-fashion-dream-original-imagdy9bz3huhbck.jpeg?q=70",
+      "id": 18
+    },
+    {
+      "name": "Uraban Woment dress",
+      "brand": "Urban",
+      "price": 201,
+      "gender": "female",
+      "category": "topwear",
+      "color": "red",
+      "image": "https://images.meesho.com/images/products/103713364/0ioi6_400.webp",
+      "id": 19
+    },
+    {
+      "name": "Pretty Modern Dress",
+      "brand": "puma",
+      "price": 262,
+      "gender": "female",
+      "category": "topwear",
+      "color": "green",
+      "image": "https://images.meesho.com/images/products/70393359/7x5uz_400.webp",
+      "id": 20
+    },
+    {
+      "name": "Classic Elegent Dress",
+      "brand": "Lycra",
+      "price": 286,
+      "gender": "female",
+      "category": "topwear",
+      "color": "black",
+      "image": "https://images.meesho.com/images/products/198029767/vvrbp_400.webp",
+      "id": 21
+    },
+    {
+      "name": "Urban Modern Jeans",
+      "brand": "Urban",
+      "price": 565,
+      "gender": "female",
+      "category": "bottomwear",
+      "color": "white",
+      "image": "https://images.meesho.com/images/products/280944654/ttylu_400.webp",
+      "id": 22
+    },
+    {
+      "name": "Noorie cigar pant",
+      "brand": "Lycra",
+      "price": 248,
+      "gender": "female",
+      "category": "bottomwear",
+      "color": "white",
+      "image": "https://images.meesho.com/images/products/305298968/bcdzf_512.webp",
+      "id": 23
+    },
+    {
+      "name": "Elegant Glamarous Tracks",
+      "brand": "Nike",
+      "price": 266,
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "white",
+      "image": "https://images.meesho.com/images/products/162005937/1pynz_400.webp",
+      "id": 24
+    },
+    {
+      "name": "Casual Men Track",
+      "brand": "Custom",
+      "price": 417,
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "black",
+      "image": "https://images.meesho.com/images/products/57617963/ugowu_400.webp",
+      "id": 25
+    },
+    {
+      "name": "Fancy Men Shirts",
+      "brand": "Nike",
+      "price": 370,
+      "gender": "male",
+      "category": "topwear",
+      "color": "green",
+      "image": "https://images.meesho.com/images/products/186280424/i5a1f_400.webp",
+      "id": 26
+    },
+    {
+      "name": "Classy Men Tshirt",
+      "brand": "puma",
+      "price": 167,
+      "gender": "male",
+      "category": "topwear",
+      "color": "white",
+      "image": "https://images.meesho.com/images/products/149422242/wbwe5_400.webp",
+      "id": 27
+    },
+    {
+      "name": "Elegent Men Jeans",
+      "brand": "Cargo",
+      "price": 377,
+      "gender": "male",
+      "category": "bottomwear",
+      "color": "black",
+      "image": "https://images.meesho.com/images/products/277471936/qe2bp_400.webp",
+      "id": 28
+    },
+    {
+      "name": "Men Sport shoes",
+      "brand": "IES",
+      "price": 295,
+      "gender": "male",
+      "category": "footwear",
+      "color": "black",
+      "image": "https://images.meesho.com/images/products/151273163/kqdhc_400.webp",
+      "id": 29
+    },
+    {
+      "name": "Modern Fabulous Shoes",
+      "brand": "Sniker",
+      "price": 322,
+      "gender": "male",
+      "category": "footwear",
+      "color": "white",
+      "image": "https://images.meesho.com/images/products/290658874/kdybs_400.webp",
+      "id": 30
+    },
+    {
+      "name": "Kids Girls Sandle",
+      "brand": "Custom",
+      "price": 338,
+      "gender": "kids",
+      "category": "footwear",
+      "color": "red",
+      "image": "https://images.meesho.com/images/products/103772219/sjeqh_400.webp",
+      "id": 31
+    },
+    {
+      "name": "Kids Boys Flip Flops",
+      "brand": "Hello",
+      "price": 49,
+      "gender": "kids",
+      "category": "footwear",
+      "color": "green",
+      "image": "https://images.meesho.com/images/products/281165637/egmv5_400.webp",
+      "id": 32
+    },
+    {
+      "name": "Kids clogs",
+      "brand": "EVA",
+      "price": 167,
+      "gender": "kids",
+      "category": "footwear",
+      "color": "green",
+      "image": "https://images.meesho.com/images/products/304453801/lwgto_400.webp",
+      "id": 33
+    },
+    {
+      "name": "Women Flats",
+      "brand": "Elegent",
+      "price": 122,
+      "gender": "female",
+      "category": "footwear",
+      "color": "black",
+      "image": "https://images.meesho.com/images/products/189089293/7zgl0_400.webp",
+      "id": 34
+    },
+    {
+      "name": "Women Flats",
+      "brand": "Lupsa",
+      "price": 200,
+      "gender": "female",
+      "category": "footwear",
+      "color": "green",
+      "image": "https://images.meesho.com/images/products/251943035/ivcra_400.webp",
+      "id": 35
+    },
+    {
+      "name": "Women Juttis",
+      "brand": "patanahi",
+      "price": 191,
+      "gender": "female",
+      "category": "footwear",
+      "color": "red",
+      "image": "https://www.meesho.com/gorgeous-women-juttis-mojaris/p/4ry6a1",
+      "id": 36
+    }
+  ]
+}
