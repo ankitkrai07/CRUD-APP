@@ -1,4 +1,5 @@
 import {
+  GET_PRODUCT_SUCCESS,
   POST_PRODUCT_SUCCESS,
   PRODUCT_FAILURE,
   PRODUCT_REQUEST,
@@ -7,7 +8,7 @@ import {
 const initialState = {
   isLoading: false,
   isError: false,
-  product: [],
+  products: [],
 };
 
 export const reducer = (state = initialState, { type, payload }) => {
@@ -18,6 +19,8 @@ export const reducer = (state = initialState, { type, payload }) => {
       return { ...state, isLoading: false, isError: true };
     case POST_PRODUCT_SUCCESS:
       return { ...state, isLoading: false };
+    case GET_PRODUCT_SUCCESS:
+      return { ...state, isloading: false, products: payload };
     default:
       return state;
   }

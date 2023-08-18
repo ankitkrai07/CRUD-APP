@@ -25,7 +25,7 @@ export const Login = () => {
   };
 
   return (
-    <DIV auth={isAuth} err={isError}>
+    <DIV auth={isAuth.toSting} err={isError.toStrin}>
       <h2>{isAuth ? "Login Sucessfull" : "Login to continue"}</h2>
       {/* <h3>{isError && errorMessage}</h3> */}
       <input
@@ -53,13 +53,14 @@ const DIV = styled.div`
   gap: 10px;
 
   h2 {
-    color: ${({ auth }) => (auth ? "green" : "red")};
+    color: ${({ auth }) => (auth === "true" ? "green" : "red")};
   }
 
   input {
     height: 40px;
     font-size: larger;
-    border: ${({ err }) => (err ? "1px solid red" : "1px solid gray")};
+    border: ${({ err }) =>
+      err === "true" ? "1px solid red" : "1px solid gray"};
   }
 
   button {
