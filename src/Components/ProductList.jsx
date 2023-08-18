@@ -4,22 +4,28 @@ import { getProducts } from "../Redux/Products/action";
 // import { store } from "../Redux/store";
 import { ProductCard } from "./ProductCard";
 import { store } from "../Redux/store";
+import { styled } from "styled-components";
 
 export const ProductList = () => {
   const dispatch = useDispatch();
   const products = useSelector((store) => store.productsReducer.products);
-
-  console.log(products);
+  //   console.log(products);
 
   useEffect(() => {
     dispatch(getProducts);
   }, []);
 
   return (
-    <div>
+    <DIV>
       {products.map((el) => {
         return <ProductCard key={el.id} {...el} />;
       })}
-    </div>
+    </DIV>
   );
 };
+
+const DIV = styled.div`
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 20px;
+`;
