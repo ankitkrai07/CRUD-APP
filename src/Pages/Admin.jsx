@@ -98,4 +98,10 @@ const DIV = styled.div`
     width: 100%;
     font-size: larger;
   }
+  button {
+    width: 50%;
+    height: 35px;
+    border: none;
+    cursor: pointer;
+  }
 `;
