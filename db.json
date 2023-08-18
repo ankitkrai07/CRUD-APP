@@ -359,6 +359,15 @@
       "color": "red",
       "image": "https://www.meesho.com/gorgeous-women-juttis-mojaris/p/4ry6a1",
       "id": 36
+    },
+    {
+      "name": "Top",
+      "image": "https://www.fablestreet.com/cdn/shop/products/TP592REDD_M1_8a9bd313-5b0f-44c7-8a6d-89e82b317ce3_800x.jpg?v=1690285927",
+      "brand": "Nike",
+      "price": 599,
+      "category": "top-wear",
+      "gender": "female",
+      "id": 37
     }
   ]
 }

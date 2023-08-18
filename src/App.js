@@ -1,13 +1,10 @@
 import "./App.css";
-import { Admin } from "./Pages/Admin";
-import { Login } from "./Pages/Login";
+import { MainRoutes } from "./Pages/MainRoutes";
 
 function App() {
   return (
     <div className="App">
-      {/* <Admin />
-       */}
-      <Login />
+      <MainRoutes />
     </div>
   );
 }

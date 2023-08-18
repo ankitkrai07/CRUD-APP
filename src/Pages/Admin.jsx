@@ -1,5 +1,7 @@
 import React, { useState } from "react";
+import { useDispatch } from "react-redux";
 import styled from "styled-components";
+import { addProduct } from "../Redux/Products/action";
 
 const initialState = {
   name: "",
@@ -12,6 +14,7 @@ const initialState = {
 
 export const Admin = () => {
   const [data, setData] = useState(initialState);
+  const dispatch = useDispatch();
 
   const handleChange = (e) => {
     // console.log(e.target.value);
@@ -24,7 +27,9 @@ export const Admin = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(data);
+    //   console.log(data);
+    dispatch(addProduct(data));
+    setData(initialState);
   };
 
   return (
