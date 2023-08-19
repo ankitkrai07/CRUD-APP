@@ -1,13 +1,12 @@
 import "./App.css";
-import { Admin } from "./Pages/Admin";
-import { Login } from "./Pages/Login";
+import { Navbar } from "./Components/Navbar";
+import { MainRoutes } from "./Pages/MainRoutes";
 
 function App() {
   return (
     <div className="App">
-      {/* <Admin />
-       */}
-      <Login />
+      <Navbar />
+      <MainRoutes />
     </div>
   );
 }
